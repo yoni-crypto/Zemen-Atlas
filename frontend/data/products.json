@@ -1,0 +1,260 @@
+[
+    {
+      "id": "p1",
+      "name": "Ethiopian Cross with Flag T-Shirt",
+      "price": 500,
+      "category": "shirts",
+      "description": "Black premium cotton t-shirt featuring a striking combination of the Ethiopian Orthodox cross and national flag colors, symbolizing faith and patriotism",
+      "image": "https://res.cloudinary.com/datezvsdr/image/upload/v1769766987/Ethiopia_Cross_With_Flag_T_Shirt_LT12_l6xgvx.jpg"
+    },
+    {
+      "id": "p2",
+      "name": "Ethiopia Map Outline T-Shirt",
+      "price": 600,
+      "category": "shirts",
+      "description": "Simple yet elegant black t-shirt with a clean white outline of Ethiopia's map, perfect for subtle national pride",
+      "image": "https://res.cloudinary.com/datezvsdr/image/upload/v1769766987/Ethiopia_T_Shirt_Map_LT10_gjwgvv.jpg"
+    },
+    {
+      "id": "p3",
+      "name": "Kebero Drum Cultural T-Shirt",
+      "price": 750,
+      "category": "shirts",
+      "description": "Vibrant t-shirt celebrating Ethiopian musical heritage with a colorful Kebero drum design, surrounded by traditional patterns",
+      "image": "https://res.cloudinary.com/datezvsdr/image/upload/v1769766993/kebero-tshirt_lgjqso.jpg"
+    },
+    {
+      "id": "p4",
+      "name": "Ethiopian Modern Art Geometric T-Shirt",
+      "price": 900,
+      "category": "hoodie",
+      "description": "Contemporary design featuring abstract geometric patterns inspired by Ethiopian architecture and traditional art forms",
+      "image": "https://res.cloudinary.com/datezvsdr/image/upload/v1769766987/31_ixkis0.jpg"
+    },
+    {
+      "id": "p5",
+      "name": "Ethiopian Star Pattern T-Shirt",
+      "price": 1200,
+      "category": "hoodie",
+      "description": "Stylish blue t-shirt with interconnected star patterns, representing unity and the diverse cultures of Ethiopia",
+      "image": "https://res.cloudinary.com/datezvsdr/image/upload/v1769766987/32_pz1zhs.jpg"
+    },
+    {
+      "id": "p6",
+      "name": "Traditional Ethiopian Motif T-Shirt",
+      "price": 300,
+      "category": "shirts",
+      "description": "Rich cultural design featuring intricate patterns commonly found in Ethiopian textiles and church art",
+      "image": "https://res.cloudinary.com/datezvsdr/image/upload/v1769766987/30_djg8gs.jpg"
+    },
+    {
+      "id": "p7",
+      "name": "Lion of Judah Inspired T-Shirt",
+      "price": 800,
+      "category": "shirts",
+      "description": "Powerful design featuring patterns and symbols reminiscent of the Lion of Judah, representing Ethiopian monarchy and heritage",
+      "image": "https://res.cloudinary.com/datezvsdr/image/upload/v1769766986/29_avueau.jpg"
+    },
+    {
+      "id": "p8",
+      "name": "Ethiopian Cross Pattern T-Shirt",
+      "price": 950,
+      "category": "shirts",
+      "description": "Elegant design featuring repeated cross patterns inspired by Ethiopian Orthodox Christian symbolism",
+      "image": "https://res.cloudinary.com/datezvsdr/image/upload/v1769766986/28_dzxutg.jpg"
+    },
+    {
+      "id": "p9",
+      "name": "African Tribal Pattern T-Shirt",
+      "price": 1999.99,
+      "category": "hoodie",
+      "description": "Bold tribal patterns in green and white, inspired by traditional Ethiopian body art and cultural markings",
+      "image": "https://res.cloudinary.com/datezvsdr/image/upload/v1769766984/27_nx9kcn.webp"
+    },
+    {
+      "id": "p10",
+      "name": "Abstract Ethiopian Design T-Shirt",
+      "price": 678.99,
+      "category": "shirts",
+      "description": "Modern abstract interpretation of Ethiopian cultural symbols and traditional motifs",
+      "image": "https://res.cloudinary.com/datezvsdr/image/upload/v1769766983/26_qjlkhd.webp"
+    },
+    {
+      "id": "p11",
+      "name": "Minimalist Ethiopian Pattern T-Shirt",
+      "price": 1000,
+      "category": "shirts",
+      "description": "Clean, minimalist design featuring simplified Ethiopian geometric patterns for understated elegance",
+      "image": "https://res.cloudinary.com/datezvsdr/image/upload/v1769766983/25_ull5b6.webp"
+    },
+    {
+      "id": "p12",
+
+      "name": "Ethiopian Cultural Symbols T-Shirt",
+      "price": 2500,
+      "category": "hoodie",
+      "description": "Collection of traditional Ethiopian symbols including crosses, stars, and protective motifs",
+      "image": "https://res.cloudinary.com/datezvsdr/image/upload/v1769766982/23_lxdfnw.webp"
+    },
+    {
+      "id": "p13",
+      "name": "Traditional Ethiopian Medallion T-Shirt",
+      "price": 2399,
+      "category": "hoodie",
+      "description": "Central medallion design featuring intricate patterns inspired by Ethiopian jewelry and ceremonial art",
+      "image": "https://res.cloudinary.com/datezvsdr/image/upload/v1769766977/22_wsieb6.jpg"
+    },
+    {
+      "id": "p14",
+      "name": "Ethiopian Textile Pattern T-Shirt",
+      "price": 2000,
+      "category": "hoodie",
+      "description": "Design inspired by traditional Ethiopian woven textiles and fabric patterns",
+      "image": "https://res.cloudinary.com/datezvsdr/image/upload/v1769766977/21_luxmxi.jpg"
+    },
+    {
+      "id": "p15",
+      "name": "Circular Ethiopian Motif T-Shirt",
+      "price": 650,
+      "category": "shirts",
+      "description": "Circular pattern design featuring interconnected Ethiopian cultural symbols and geometric forms",
+      "image": "https://res.cloudinary.com/datezvsdr/image/upload/v1769766977/20_pq5nlo.jpg"
+    },
+    {
+      "id": "p16",
+      "name": "Ethiopian Shield Pattern T-Shirt",
+      "price": 780,
+      "category": "shirts",
+      "description": "Design inspired by traditional Ethiopian shields and warrior heritage with symmetrical protective symbols",
+      "image": "https://res.cloudinary.com/datezvsdr/image/upload/v1769766976/19_ewyexh.jpg"
+    },
+    {
+      "id": "p17",
+      "name": "Star and Cross Ethiopian T-Shirt",
+      "price": 900,
+      "category": "shirts",
+      "description": "Harmonious combination of Ethiopian crosses and stars, representing spiritual and celestial elements",
+      "image": "https://res.cloudinary.com/datezvsdr/image/upload/v1769766976/18_xkuqjk.jpg"
+    },
+    {
+      "id": "p18",
+      "name": "Ethiopian Symmetrical Pattern T-Shirt",
+      "price": 560,
+      "category": "shirts",
+      "description": "Perfectly symmetrical design featuring Ethiopian cultural patterns in balanced composition",
+      "image": "https://res.cloudinary.com/datezvsdr/image/upload/v1769766976/17_a6xp2g.jpg"
+    },
+    {
+      "id": "p19",
+      "name": "Traditional Border Pattern T-Shirt",
+      "price": 900,
+      "category": "shirts",
+      "description": "Border-style pattern inspired by Ethiopian manuscript illuminations and architectural decorations",
+      "image": "https://res.cloudinary.com/datezvsdr/image/upload/v1769766976/16_vv2afs.jpg"
+    },
+    {
+      "id": "p20",
+      "name": "Ethiopian Heritage Symbol T-Shirt",
+      "price": 600,
+      "category": "shirts",
+      "description": "Collection of heritage symbols representing different aspects of Ethiopian culture and history",
+      "image": "https://res.cloudinary.com/datezvsdr/image/upload/v1769766976/15_hfxc4c.jpg"
+    },
+    {
+      "id": "p21",
+      "name": "Geometric Ethiopian Design T-Shirt",
+      "price": 500,
+      "category": "shirts",
+      "description": "Modern geometric interpretation of traditional Ethiopian patterns and symbols",
+      "image": "https://res.cloudinary.com/datezvsdr/image/upload/v1769766976/14_rquxvc.jpg"
+    },
+    {
+      "id": "p22",
+      "name": "Ethiopian Circular Mandala T-Shirt",
+      "price": 800,
+      "category": "shirts",
+      "description": "Intricate mandala-style design featuring concentric circles of Ethiopian cultural symbols",
+      "image": "https://res.cloudinary.com/datezvsdr/image/upload/v1769766969/13_mubgkh.jpg"
+    },
+    {
+      "id": "p23",
+      "name": "Cross Pattern Variation T-Shirt",
+      "price": 900,
+      "category": "shirts",
+      "description": "Variation on traditional Ethiopian cross designs with contemporary styling",
+      "image": "https://res.cloudinary.com/datezvsdr/image/upload/v1769766969/12_mso9ae.jpg"
+    },
+    {
+
+      "id": "p24",
+      "name": "Ethiopian Cultural Emblem T-Shirt",
+      "price": 999.99,
+      "category": "shirts",
+      "description": "Central emblem design combining multiple Ethiopian cultural symbols in unified composition",
+      "image": "https://res.cloudinary.com/datezvsdr/image/upload/v1769766969/11_rjisci.jpg"
+    },
+    {
+      "id": "p25",
+      "name": "Traditional Pattern Series T-Shirt",
+      "price": 400,
+      "category": "shirts",
+      "description": "Part of a series featuring authentic Ethiopian patterns from different regions",
+      "image": "https://res.cloudinary.com/datezvsdr/image/upload/v1769766969/10_hmjssh.jpg"
+    },
+    {
+      "id": "p26",
+      "name": "Ethiopian Star Cluster T-Shirt",
+      "price": 360,
+      "category": "shirts",
+      "description": "Cluster of Ethiopian star symbols arranged in traditional pattern formation",
+      "image": "https://res.cloudinary.com/datezvsdr/image/upload/v1769766969/9_oidio3.jpg"
+    },
+    {
+      "id": "p27",
+      "name": "Simplified Ethiopian Motif T-Shirt",
+      "price": 300,
+      "category": "shirts",
+      "description": "Clean, simplified version of traditional Ethiopian motifs for modern appeal",
+      "image": "https://res.cloudinary.com/datezvsdr/image/upload/v1769766969/8_vrso2z.jpg"
+    },
+    {
+      "id": "p28",
+      "name": "Ethiopian Symbol Collection T-Shirt",
+      "price": 1000,
+      "category": "shirts",
+      "description": "Carefully curated collection of significant Ethiopian symbols and protective marks",
+      "image": "https://res.cloudinary.com/datezvsdr/image/upload/v1769766969/7_idttsv.jpg"
+    },
+    {
+      "id": "p29",
+      "name": "Ethiopian Pattern Art T-Shirt",
+      "price": 890,
+      "category": "shirts",
+      "description": "Artistic interpretation of Ethiopian patterns with contemporary color palette",
+      "image": "https://res.cloudinary.com/datezvsdr/image/upload/v1769766968/6_re6gkk.jpg"
+    },
+    {
+      "id": "p30",
+      "name": "Classic Ethiopian Design T-Shirt",
+      "price": 900,
+      "category": "shirts",
+      "description": "Timeless Ethiopian design featuring traditional elements in classic arrangement",
+      "image": "https://res.cloudinary.com/datezvsdr/image/upload/v1769766969/5_wflpv3.jpg"
+    },
+    {
+      "id": "p31",
+      "name": "Ethiopian Heritage Pattern T-Shirt",
+      "price": 400,
+      "category": "shirts",
+      "description": "Heritage pattern representing centuries of Ethiopian artistic tradition",
+      "image": "https://res.cloudinary.com/datezvsdr/image/upload/v1769766968/4_fprgvl.jpg"
+    },
+    {
+      "id": "p32",
+      "name": "Minimalist Cross Design T-Shirt",
+      "price": 300,
+      "category": "shirts",
+      "description": "Minimalist approach to Ethiopian cross design for subtle cultural expression",
+      "image": "https://res.cloudinary.com/datezvsdr/image/upload/v1769766968/3_aq4lf1.jpg"
+    }
+  ]

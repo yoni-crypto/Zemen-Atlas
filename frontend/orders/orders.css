@@ -1,0 +1,141 @@
+.orders-main {
+  padding: 0;
+  min-height: 100vh;
+  background: #1a1a1a;
+  color: white;
+  margin-top: 4rem;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 0;
+}
+
+.orders-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.orders-main h1 {
+  font-size: 2rem;
+  margin: 0;
+  color: #f97316;
+}
+
+.continue-shopping {
+  color: #888;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.continue-shopping:hover {
+  color: #f97316;
+}
+
+.orders-content {
+  background: #2a2a2a;
+  border: 1px solid #404040;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.orders-table-wrap {
+  overflow-x: auto;
+}
+
+.orders-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.orders-table th {
+  background: #333;
+  color: #f97316;
+  padding: 1rem;
+  text-align: left;
+  font-weight: 600;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.orders-table td {
+  padding: 0.75rem;
+  border-bottom: 1px solid #404040;
+  vertical-align: top;
+}
+
+.order-id {
+  font-weight: bold;
+  color: #f97316;
+  font-size: 0.9rem;
+}
+
+.order-date {
+  color: #888;
+  font-size: 0.9rem;
+}
+
+.order-items {
+  max-width: 300px;
+}
+
+.order-item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.25rem;
+  font-size: 0.85rem;
+}
+
+.order-item-name {
+  color: white;
+}
+
+.order-item-qty {
+  color: #888;
+}
+
+.order-total {
+  font-weight: bold;
+  color: #f97316;
+  font-size: 1rem;
+}
+
+.order-status {
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  background: #22c55e;
+  color: white;
+}
+
+.empty-orders {
+  text-align: center;
+  padding: 3rem;
+  color: #888;
+}
+
+.empty-orders h2 {
+  color: white;
+  margin-bottom: 1rem;
+}
+
+.shop-now-btn {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background: #f97316;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: 500;
+  margin-top: 1rem;
+}
+
+.shop-now-btn:hover {
+  background: #ea580c;
+}

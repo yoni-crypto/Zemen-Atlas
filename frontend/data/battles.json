@@ -1,0 +1,272 @@
+[
+  {
+    "id": "b1",
+    "name": "Battle of Adwa",
+    "period": "1896",
+    "location": [14.17, 38.9],
+    "year": 1896,
+    "image": "https://i.pinimg.com/1200x/89/a6/c5/89a6c56d2438a60ffdd6621b8d32b9de.jpg",
+    "summary": "The Battle of Adwa (Amharic: አድዋ) stands as one of the most significant military victories in African history. On March 1, 1896, Emperor Menelik II led approximately 100,000 Ethiopian troops against 17,700 Italian soldiers under General Oreste Baratieri. Ethiopia's decisive victory, achieved through superior strategy and knowledge of the mountainous terrain, resulted in over 6,000 Italian casualties and 1,500 captured. The Treaty of Addis Ababa that followed unequivocally recognized Ethiopian sovereignty, making Ethiopia one of only two African nations to resist European colonization during the Scramble for Africa. This victory inspired anti-colonial movements across the continent and established Ethiopia as a symbol of African independence."
+  },
+  {
+    "id": "b2",
+    "name": "Battle of Wayna Daga",
+    "period": "1543",
+    "location": [12.6, 37.4],
+    "year": 1543,
+    "image": "https://media.licdn.com/dms/image/v2/D4D22AQFF7wwAt1Wvlw/feedshare-shrink_2048_1536/B4DZkF0EV_GQA0-/0/1756739173067?e=2147483647&v=beta&t=H9AAhiPwDoN8IzMDyCk7QBOBMr2x8sJucUbg4297rEQ",
+    "summary": "The climactic Battle of Wayna Daga marked the conclusion of the devastating Ethiopian-Adal War (1529-1543). Ethiopian forces under Emperor Gelawdewos, reinforced by 400 Portuguese musketeers led by Cristóvão da Gama, faced Imam Ahmad ibn Ibrahim al-Ghazi's army near Lake Tana. The turning point occurred when a Portuguese musketeer fatally shot Imam Ahmad, causing his forces to disintegrate. This battle not only ended the war but also halted the expansion of the Adal Sultanate and preserved Christianity as Ethiopia's dominant religion. The conflict had lasting demographic consequences, devastating populations on both sides and reshaping the political landscape of the Horn of Africa."
+  },
+  {
+    "id": "b3",
+    "name": "Battle of Amba Sel",
+    "period": "1531",
+    "location": [9.03, 38.74],
+    "year": 1531,
+    "image": "https://i.pinimg.com/736x/a9/d7/72/a9d772112171ef33e103964010a43275.jpg",
+    "summary": "Fought on the mountainous terrain of Amba Sel, this battle represented a catastrophic defeat for Ethiopian Emperor Dawit II (Lebna Dengel). Imam Ahmad's forces, armed with Ottoman firearms and cannons, overwhelmed the traditionally armed Ethiopian army. The defeat forced the Ethiopian court into a prolonged period of flight and exile, known as the 'Period of Homelessness,' during which the empire's administrative structure nearly collapsed. Amba Sel demonstrated the revolutionary impact of gunpowder weapons in Ethiopian warfare and marked the zenith of Adal Sultanate power, allowing Imam Ahmad to control most of the Ethiopian highlands for nearly a decade."
+  },
+  {
+    "id": "b4",
+    "name": "Battle of Shimbra Kure",
+    "period": "1529",
+    "location": [9.03, 38.74],
+    "year": 1529,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQLwZmEEjVy85XFOBfD6bSYX6FtS1oXeOdvA&s",
+    "summary": "The inaugural major engagement of the Ethiopian-Adal War occurred at Shimbra Kure, where Imam Ahmad ibn Ibrahim al-Ghazi's forces, though numerically inferior, utilized Ottoman-supplied firearms to devastating effect against Emperor Dawit II's larger but traditionally armed army. While not decisive, the battle demonstrated the transformative power of gunpowder technology in the region and established Imam Ahmad as a formidable military leader. This confrontation set the stage for a 14-year conflict that would devastate both empires, depopulate regions through warfare and famine, and fundamentally alter the religious and political dynamics of the Horn of Africa."
+  },
+  {
+    "id": "b5",
+    "name": "Battle of Magdala",
+    "period": "1868",
+    "location": [11.5, 39.3],
+    "year": 1868,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThRns5hu86J9fbKGET-0TMukzQ7Lzc5s_5PA&s",
+    "summary": "The British Expedition to Abyssinia culminated in the siege and capture of Emperor Tewodros II's mountain fortress at Magdala. Facing 13,000 British and Indian troops under Sir Robert Napier equipped with modern artillery, Tewodros's 4,000 defenders stood little chance. After breaching the fortress walls, British troops engaged in extensive looting, carrying away thousands of manuscripts, crowns, and religious artifacts. Rather than face capture, Tewodros committed suicide with a pistol gifted to him by Queen Victoria. The expedition, while militarily successful for Britain, cost approximately £9 million (equivalent to £900 million today) and established a precedent for European military intervention in Ethiopia."
+  },
+  {
+    "id": "b6",
+    "name": "Battle of Gura",
+    "period": "1876",
+    "location": [15.1, 38.9],
+    "year": 1876,
+    "image": "https://zantana.net/static/9410e685cba2ba48bd7ad7c4af9b28b6/38f6f/degiat_hailu_of_tsazzega_ruler_of_mereb_melash.jpg",
+    "summary": "At the fortified positions of Gura and Gundet, Ethiopian forces under Emperor Yohannes IV decisively defeated an Egyptian expeditionary force commanded by Swiss General William Wing Loring. The Egyptians, equipped with modern Remington rifles and artillery, suffered catastrophic losses—approximately 5,000 killed or captured compared to 800 Ethiopian casualties. This victory not only secured Ethiopia's northern borders but also demonstrated that Ethiopian armies could defeat modern European-style forces. The captured Egyptian weaponry significantly enhanced Ethiopia's military capabilities, while the victory established Yohannes IV as the dominant power in the region and deterred further Egyptian expansionism."
+  },
+  {
+    "id": "b7",
+    "name": "Battle of Embabo",
+    "period": "1882",
+    "location": [8.5, 37.5],
+    "year": 1882,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0NPhNYRXVUNAExn2YRzhb2afR3rvM20hQgg&s",
+    "summary": "This pivotal civil war battle pitted Menelik II of Shewa against Negus Tekle Haymanot of Gojjam at the Guder River near Embabo. Menelik's forces, better equipped with modern firearms acquired through trade with European powers, overwhelmed Tekle Haymanot's traditionally armed troops. The victory consolidated Menelik's control over southern and western Ethiopia, eliminated his primary rival for the imperial throne, and demonstrated the growing importance of firearms in Ethiopian warfare. The captured territory and resources from Gojjam significantly strengthened Menelik's position, enabling his eventual ascension as emperor and his successful resistance against Italian colonialism."
+  },
+  {
+    "id": "b8",
+    "name": "Battle of Chelenqo",
+    "period": "1887",
+    "location": [9.3, 42.1],
+    "year": 1887,
+    "image": "https://i2.wp.com/mereja.com/album/wp-content/uploads/2015/03/The-Battle-of-Chelenqo-1887.jpg",
+    "summary": "Also known as the Battle of Chellenqo or Chilanko, this confrontation resulted in Menelik II's annexation of the historic Emirate of Harar. Menelik's army of 15,000 soldiers, armed with modern rifles and artillery, decisively defeated Emir Abdullah II's 4,000 defenders. The victory incorporated Harar—a major trading hub and Islamic scholarly center—into the Ethiopian Empire, giving Ethiopia direct access to trade routes to the Somali coast. Menelik installed his cousin, Ras Makonnen Wolde Mikael (father of future Emperor Haile Selassie), as governor, beginning Harar's integration into the Ethiopian state while preserving its unique cultural and architectural heritage."
+  },
+  {
+    "id": "b9",
+    "name": "Battle of Debre Tabor",
+    "period": "1842",
+    "location": [11.85, 38.0],
+    "year": 1842,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5RaS2lPbZcaH9LF7bApLFk-YCDnBwLgOvfA&s",
+    "summary": "Fought during the Zemene Mesafint ('Era of the Princes'), a period of feudal fragmentation from 1769-1855, this battle typified the era's constant power struggles between regional lords (Rases). The forces of Ras Ali II of Yejju, the de facto ruler of Gondar, clashed with those of Wube Haile Maryam of Semien. While details are scarce in contemporary records, such battles maintained the decentralized nature of Ethiopian politics, preventing any single ruler from consolidating power until Kassa Hailu (future Emperor Tewodros II) emerged. These conflicts weakened central authority, made the empire vulnerable to external threats, and delayed modernization efforts until Tewodros's consolidation of power."
+  },
+  {
+    "id": "b10",
+    "name": "Battle of Ayshal",
+    "period": "1853",
+    "location": [10.7, 38.7],
+    "year": 1853,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKWbnnVpkM2oiiQulpmTrpMeMY2sJD0Ja25A&s",
+    "summary": "At Ayshal in the Amhara region, Kassa Hailu (soon to be crowned Emperor Tewodros II) defeated the combined forces of Ras Ali II and his mother, Empress Menen Liben. This decisive victory effectively ended the Zemene Mesafint period of feudal fragmentation and regional warlordism that had plagued Ethiopia for nearly a century. Tewodros's triumph centralized imperial power, restored the authority of the Solomonic dynasty, and allowed him to begin ambitious modernization programs, including military reforms and attempts to curb the power of regional nobility and the Ethiopian Church. Though his reign ultimately ended tragically, Ayshal marked the beginning of modern Ethiopia's unification process."
+  },
+  {
+    "id": "b11",
+    "name": "Battle of Segale",
+    "period": "1916",
+    "location": [9.04, 38.74],
+    "year": 1916,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQixr-zD247o_MTVqc2tgfjfaT6tzB-demF5A&s",
+    "summary": "The Battle of Segale was a decisive civil war confrontation between the forces of Empress Zewditu's regent, Ras Tafari Makonnen (future Haile Selassie I), and the rebellious Minister of War, Negus Mikael of Wollo. Ras Tafari's modernized army, equipped with artillery and machine guns, crushed the traditional cavalry charges of Negus Mikael's forces. This victory consolidated Ras Tafari's power as regent and heir apparent, paving the way for Ethiopia's modernization and entry into the League of Nations. The battle marked the triumph of modern military technology over traditional Ethiopian warfare tactics."
+  },
+  {
+    "id": "b12",
+    "name": "Battle of Maychew",
+    "period": "1936",
+    "location": [12.8, 39.54],
+    "year": 1936,
+    "image": "https://img.sewasew.com/definitions/8633fb5f4d644174b37b1c48b973839a_279_181",
+    "summary": "The final major battle of the Second Italo-Ethiopian War saw Emperor Haile Selassie personally commanding 31,000 Ethiopian troops against 40,000 Italian soldiers under Marshal Pietro Badoglio. Despite Ethiopian bravery, Italian air superiority, mustard gas attacks, and overwhelming artillery led to decisive defeat. The battle resulted in approximately 8,000 Ethiopian casualties and opened the road to Addis Ababa, forcing Haile Selassie into exile. Maychew demonstrated the devastating effectiveness of modern combined arms warfare against even determined traditional forces."
+  },
+  {
+    "id": "b13",
+    "name": "Battle of Shire",
+    "period": "1936",
+    "location": [14.11, 38.28],
+    "year": 1936,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlmlEx-qY4ZXRcvOB665MVlCIH_ZbMMUdeVw&s",
+    "summary": "In the Tigray region, Ethiopian forces under Ras Imru Haile Selassie mounted a desperate defense against Italian columns advancing from Eritrea. The four-day battle saw fierce fighting around the Takazze River, but Italian air power and artillery proved decisive. Ethiopian losses exceeded 4,000, while Italian casualties were minimal. The defeat at Shire collapsed Ethiopia's northern front and allowed Italian forces to converge on Addis Ababa, marking a turning point in Mussolini's invasion and demonstrating the critical importance of air superiority in modern warfare."
+  },
+  {
+    "id": "b14",
+    "name": "Battle of Enderta",
+    "period": "1896",
+    "location": [13.98, 39.1],
+    "year": 1896,
+    "image": "https://c8.alamy.com/comp/2BW3F88/remarkable-pictures-of-battle-of-enderta-italians-crush-abyssinian-war-minister-s-troops-in-decisive-battle-these-pictures-just-received-in-london-graphically-tell-the-story-of-the-great-battle-in-the-enderto-region-of-north-abyssinia-where-after-several-days-of-fierce-fighting-the-italians-scored-a-decisive-victory-over-the-troops-of-bas-lulugate-abyssinian-war-minister-who-has-since-died-of-pneumonia-caused-by-exposure-when-directing-operations-the-battle-broke-out-south-of-makale-the-1-and-3-italian-army-corps-reached-their-objective-only-after-they-had-overcome-an-extraor-2BW3F88.jpg",
+    "summary": "This preliminary engagement immediately preceded the Battle of Adwa, where Ethiopian forces under Ras Mangasha and Ras Alula ambushed and destroyed an Italian column under Major Toselli. The Italian force of 2,000 men was nearly annihilated, with only 200 survivors. This victory boosted Ethiopian morale, demonstrated their military capabilities to the Italians, and forced General Baratieri to abandon his defensive positions, leading directly to the decisive confrontation at Adwa. Enderta proved that Ethiopian forces could effectively engage and defeat European troops in mountain warfare."
+  },
+  {
+    "id": "b15",
+    "name": "Battle of Gondar",
+    "period": "1941",
+    "location": [12.6, 37.47],
+    "year": 1941,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZ_PDdd3XuzmpPLvYELE7AghEa-nPSZNMqQ&s",
+    "summary": "The final battle of the East African Campaign in World War II saw combined British, Commonwealth, Ethiopian, and Free French forces besieging the last major Italian stronghold in East Africa. After two weeks of intense fighting involving 25,000 Allied troops against 23,000 Italian defenders, the fortress city fell. This victory marked the complete liberation of Ethiopia from Italian occupation and restored Emperor Haile Selassie to his throne. Gondar's capture represented the first successful liberation of a nation from Axis control during World War II."
+  },
+  {
+    "id": "b16",
+    "name": "Battle of Mek'ele",
+    "period": "1896",
+    "location": [13.49, 39.47],
+    "year": 1896,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Battle_of_Mekelle_%281895%29_Detail.jpg",
+    "summary": "Emperor Menelik II's siege of the Italian fort at Mek'ele demonstrated Ethiopian siege warfare capabilities against modern European fortifications. After two weeks, the Italian garrison of 1,300 under Major Galliano surrendered with full military honors when their water supply was cut. Menelik's magnanimous terms allowing the Italians to march out with their weapons surprised European observers and revealed his sophisticated diplomatic strategy. The siege drained Italian supplies and morale while proving Ethiopian forces could successfully besiege modern European fortresses."
+  },
+  {
+    "id": "b17",
+    "name": "Battle of Anchem",
+    "period": "1928",
+    "location": [11.53, 37.97],
+    "year": 1928,
+    "image": "https://reemans.blob.core.windows.net/stock/173214-0-medium.jpg?v=63861736991143",
+    "summary": "This civil war battle between Ras Tafari Makonnen (Haile Selassie) and Dejazmach Balcha Safo determined control of southern Ethiopia. Ras Tafari's forces, utilizing modern tactics and weapons, defeated the veteran commander who had fought at Adwa. The victory eliminated the last major regional power resisting centralization and consolidated Haile Selassie's control over the entire country. Anchem demonstrated the growing effectiveness of Ethiopia's modernized military establishment and marked the end of significant feudal resistance to central authority."
+  },
+  {
+    "id": "b18",
+    "name": "Battle of Dogali",
+    "period": "1887",
+    "location": [15.67, 39.18],
+    "year": 1887,
+    "image": "https://www.meisterdrucke.uk/kunstwerke/1260px/Michele_Cammarano_-_The_Battle_of_Dogali_by_Michele_Cammarano_detail_-_%28MeisterDrucke-1093943%29.jpg",
+    "summary": "On the Red Sea coast near Massawa, Ethiopian forces under Ras Alula Engida annihilated an Italian column of 500 soldiers led by Colonel Tommaso De Cristoforis. The Italians, marching to relieve the besieged garrison at Sahati, were surrounded and killed almost to the last man. This early victory against European forces shocked Italy and demonstrated Ethiopia's military capabilities, though it also prompted Italy to commit more resources to its colonial project. Dogali became a symbol of Italian sacrifice and was used to justify further military expansion in the region."
+  },
+  {
+    "id": "b19",
+    "name": "Battle of Kufit",
+    "period": "1885",
+    "location": [15.25, 39.6],
+    "year": 1885,
+    "image": "https://img.sewasew.com/definitions/ae0d9b5a3cd4466d92b2427c2a4ba4ee_640_409",
+    "summary": "Ras Alula's forces defeated Mahdist Sudanese invaders in this border conflict, preserving Ethiopian sovereignty in the frontier regions. The battle prevented Mahdist expansion into Ethiopian territory and demonstrated Emperor Yohannes IV's ability to protect his borders against multiple threats simultaneously. Kufit highlighted Ethiopia's complex regional security challenges, facing threats from Italian, Egyptian, and Mahdist forces while maintaining internal unity. The victory temporarily secured Ethiopia's western frontiers during a period of intense external pressure."
+  },
+  {
+    "id": "b20",
+    "name": "Battle of Gallabat",
+    "period": "1889",
+    "location": [12.95, 36.15],
+    "year": 1889,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Early_nineteenth_century_warriors_Colour.jpg/1280px-Early_nineteenth_century_warriors_Colour.jpg",
+    "summary": "Emperor Yohannes IV's fatal confrontation with Mahdist forces from Sudan resulted in a pyrrhic Ethiopian victory. Although the Mahdists were driven from the field, Emperor Yohannes was mortally wounded by a sniper. His death created a succession crisis that allowed Menelik II to ascend the throne and shifted Ethiopia's focus from the Sudanese frontier to the growing Italian threat from Eritrea. Gallabat marked the end of an era in Ethiopian history and transformed the geopolitical dynamics of Northeast Africa."
+  },
+  {
+    "id": "b21",
+    "name": "Battle of Debre Abbay",
+    "period": "1831",
+    "location": [11.85, 37.75],
+    "year": 1831,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Combattimento_di_Debra_Aila_%281895%29.jpg",
+    "summary": "During the Zemene Mesafint, Ras Marye of Yejju defeated and killed Dejazmach Sabagadis of Tigray in this pivotal conflict for control of northern Ethiopia. The battle intensified regional fragmentation and prolonged the era of feudal warfare. Debre Abbay's aftermath saw increasing Oromo influence in Ethiopian politics through the Yejju dynasty while weakening Tigrayan power, creating conditions that would persist until Tewodros II's rise to power two decades later."
+  },
+  {
+    "id": "b22",
+    "name": "Battle of Addis Alem",
+    "period": "1916",
+    "location": [10.03, 38.4],
+    "year": 1916,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVAeq90aNiQr6wjw9lxUk0lPE1TV24ErXlTQ&s",
+    "summary": "Lij Iyasu's forces clashed with those loyal to the Solomonic dynasty in this critical battle of the 1916 coup. Iyasu's defeat led to his deposition and the installation of Empress Zewditu with Ras Tafari as regent. The battle determined Ethiopia's orientation during World War I, ensuring it remained neutral rather than aligning with the Central Powers as Iyasu had contemplated. Addis Alem solidified the alliance between Shewan nobility and conservative elements that would govern Ethiopia until 1935."
+  },
+  {
+    "id": "b23",
+    "name": "Battle of Jijiga",
+    "period": "1978",
+    "location": [9.35, 42.8],
+    "year": 1978,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/People%27s_Militia_parade_on_the_Ethiopian_Revolution_%28Meskel%29_Square.jpg/330px-People%27s_Militia_parade_on_the_Ethiopian_Revolution_%28Meskel%29_Square.jpg",
+    "summary": "During the Ogaden War, Ethiopian forces backed by 15,000 Cuban troops and Soviet advisors launched a massive counteroffensive against Somali invaders. Utilizing unprecedented artillery barrages, air power, and tank formations, the Ethiopian-Cuban coalition recaptured the strategic city. Jijiga marked the turning point of the war, demonstrating the effectiveness of Soviet-style combined arms tactics and cementing Ethiopia's alignment with the Eastern Bloc during the Cold War."
+  },
+  {
+    "id": "b24",
+    "name": "Battle of Harar",
+    "period": "1977",
+    "location": [9.31, 42.13],
+    "year": 1977,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw_k3p9B4AfPYxx-qjJpDsUd2_eTCyuL2Ftw&s",
+    "summary": "The epic two-month siege of Harar by Somali forces during the Ogaden War saw some of the most intense urban combat in African history. Ethiopian defenders under Colonel Mengistu Haile Mariam held the historic city despite being surrounded and outnumbered. The successful defense bought crucial time for Cuban and Soviet reinforcements to arrive, preventing Somalia from achieving a quick victory. Harar's defense became a symbol of Ethiopian resistance and marked the beginning of massive foreign military intervention in the Horn of Africa."
+  },
+  {
+    "id": "b25",
+    "name": "Battle of Massawa",
+    "period": "1990",
+    "location": [15.61, 39.45],
+    "year": 1990,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWSX-ze0VuYeGrkVB-ewbipokFFkHW6HJ3uQ&s",
+    "summary": "The Eritrean People's Liberation Front (EPLF) captured Ethiopia's main naval base and second largest port in a daring amphibious and ground assault. The battle severed the Ethiopian Navy from its main base, crippled government supply lines, and demonstrated the EPLF's conventional warfare capabilities. Massawa's fall marked a turning point in the Ethiopian Civil War, convincing many observers that the Mengistu regime could not survive, and accelerated negotiations that would lead to Eritrean independence in 1993."
+  },
+  {
+    "id": "b26",
+    "name": "Battle of Shire (1989)",
+    "period": "1989",
+    "location": [14.11, 38.28],
+    "year": 1989,
+    "image": "https://img.sewasew.com/definitions/d2fd7b2f24c34941b0da46c7e896c753_285_177",
+    "summary": "The Tigrayan People's Liberation Front (TPLF) decisively defeated the Ethiopian Army's largest offensive of the civil war, destroying three divisions and capturing massive quantities of weaponry. This victory transformed the TPLF from a guerrilla force into a conventional army capable of marching on Addis Ababa. The battle demonstrated the effectiveness of the TPLF's mobile warfare tactics against the Derg's Soviet-style formations and marked the beginning of the end for Mengistu Haile Mariam's regime."
+  },
+  {
+    "id": "b27",
+    "name": "Battle of Asmara",
+    "period": "1991",
+    "location": [15.32, 38.93],
+    "year": 1991,
+    "image": "https://zantana.net/static/6c1f9d5f9d5364cf699848d8dbe8c9f8/2b365/ethiopian_1st_offensive_on_elf_eplf_battle_map.jpg",
+    "summary": "EPLF forces captured the Eritrean capital after a four-day battle, effectively ending the 30-year Eritrean War of Independence. The fall of Asmara coincided with the TPLF's advance on Addis Ababa, creating a two-front collapse of the Derg regime. This coordinated victory by rebel forces reshaped the political map of the Horn of Africa, leading to Eritrea's independence and the establishment of the Ethiopian People's Revolutionary Democratic Front (EPRDF) government in Ethiopia."
+  },
+  {
+    "id": "b28",
+    "name": "Battle of Addis Ababa (1991)",
+    "period": "1991",
+    "location": [9.03, 38.74],
+    "year": 1991,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS56VA2y_mQFMelkFl1joL2zRDOIu7i0nUA4Q&s",
+    "summary": "TPLF/EPRDF forces entered Ethiopia's capital virtually unopposed as the Derg regime collapsed and Mengistu Haile Mariam fled to Zimbabwe. The bloodless capture of Addis Ababa ended 17 years of military rule and began Ethiopia's transition to ethnic federalism. This battle concluded one of Africa's longest and bloodiest civil wars, which had claimed over 1.4 million lives, and established a new political order that would govern Ethiopia for the next three decades."
+  },
+  {
+    "id": "b29",
+    "name": "Battle of Metema",
+    "period": "1889",
+    "location": [12.97, 36.2],
+    "year": 1889,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTBfVTRe-wld3ePNG1g77M7kUGVmA-CzEuzw&s",
+    "summary": "Fought simultaneously with Gallabat, this engagement saw Ethiopian forces under Ras Alula defeating Mahdist reinforcements attempting to join the main battle. The victory prevented Mahdist forces from concentrating their strength and contributed to their overall defeat. Metema demonstrated the strategic coordination possible within the Ethiopian military command and highlighted Ras Alula's tactical brilliance, though it was overshadowed by Emperor Yohannes's death at Gallabat."
+  },
+  {
+    "id": "b30",
+    "name": "Battle of Karamara",
+    "period": "1978",
+    "location": [9.2, 42.1],
+    "year": 1978,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiE2nlmMCgGwVKdQIdmDAoDDbtlASCfMAN6A&s",
+    "summary": "The final major battle of the Ogaden War saw Ethiopian-Cuban forces breaking through Somali defensive lines in the Karamara Pass, opening the road to retake the entire Ogaden region. The battle featured one of the largest tank engagements in African history and complete air superiority by Ethiopian MiG-21s and MiG-23s. Karamara's conclusion forced Somalia to withdraw all regular forces from Ethiopian territory and established the current border, while cementing Ethiopia's position as the dominant military power in the Horn of Africa."
+  }
+]

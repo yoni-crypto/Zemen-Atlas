@@ -1,0 +1,139 @@
+[
+  {
+    "id": "reg1",
+    "name": "Ethiopian Empire",
+    "dynasty": "Solomonic dynasty",
+    "period": "1270 - 1974",
+    "color": "#4d5d30",
+    "activeYears": [1270, 1974],
+    "bounds": [
+      [14.0, 36.0],
+      [15.0, 39.0],
+      [13.0, 42.0],
+      [9.0, 43.0],
+      [6.0, 40.0],
+      [7.0, 35.0],
+      [10.0, 34.0]
+    ],
+    "summary": "The Ethiopian Empire, also formerly known by the exonym Abyssinia, was an empire that historically spanned the geographical area of present-day Ethiopia and Eritrea."
+  },
+  {
+    "id": "reg2",
+    "name": "Funj Sultanate",
+    "dynasty": "Sinnar",
+    "period": "1504 - 1821",
+    "color": "#3e525a",
+    "activeYears": [1504, 1821],
+    "bounds": [
+      [18.0, 30.0],
+      [20.0, 33.0],
+      [16.0, 36.0],
+      [12.0, 35.0],
+      [10.0, 32.0],
+      [14.0, 28.0]
+    ],
+    "summary": "The Funj Sultanate, also known as the Sultanate of Sinnar, was a monarchy in what is now Sudan, northwestern Ethiopia and western Eritrea."
+  },
+  {
+    "id": "reg3",
+    "name": "Adal Sultanate",
+    "dynasty": "Walashma",
+    "period": "1415 - 1577",
+    "color": "#5a3e2e",
+    "activeYears": [1415, 1577],
+    "bounds": [
+      [11.0, 42.0],
+      [12.0, 44.0],
+      [10.0, 45.0],
+      [9.0, 43.0],
+      [9.5, 41.0],
+      [10.5, 40.0]
+    ],
+    "summary": "The Adal Sultanate was a medieval Muslim state located in the Horn of Africa, centered in the city of Harar."
+  },
+  {
+    "id": "reg4",
+    "name": "Kingdom of Aksum",
+    "dynasty": "Aksumite",
+    "period": "100 - 940",
+    "color": "#2d4a3e",
+    "activeYears": [100, 940],
+    "bounds": [
+      [14.5, 38.0],
+      [15.5, 39.5],
+      [13.5, 40.5],
+      [12.0, 39.0],
+      [12.5, 37.0],
+      [14.0, 36.5]
+    ],
+    "summary": "The Kingdom of Aksum was an ancient kingdom centered in Northern Ethiopia and Eritrea. It was a major trading empire."
+  },
+  {
+    "id": "reg5",
+    "name": "Sultanate of Ifat",
+    "dynasty": "Walashma",
+    "period": "1285 - 1415",
+    "color": "#4a3e2e",
+    "activeYears": [1285, 1415],
+    "bounds": [
+      [9.5, 41.0],
+      [10.5, 42.5],
+      [9.0, 43.5],
+      [8.0, 42.0],
+      [8.5, 40.5],
+      [9.0, 40.0]
+    ],
+    "summary": "The Sultanate of Ifat was a medieval Muslim state in the Horn of Africa, located in eastern Ethiopia."
+  },
+  {
+    "id": "reg6",
+    "name": "Kingdom of Kaffa",
+    "dynasty": "Mato",
+    "period": "1390 - 1897",
+    "color": "#3e4a2e",
+    "activeYears": [1390, 1897],
+    "bounds": [
+      [7.0, 36.0],
+      [7.5, 37.5],
+      [6.5, 38.0],
+      [6.0, 37.0],
+      [6.5, 35.5],
+      [7.0, 35.0]
+    ],
+    "summary": "The Kingdom of Kaffa was a kingdom located in what is now Ethiopia. It was known for its coffee production."
+  },
+  {
+    "id": "reg7",
+    "name": "Kingdom of Damot",
+    "dynasty": "Mota",
+    "period": "900 - 1317",
+    "color": "#2e3e4a",
+    "activeYears": [900, 1317],
+    "bounds": [
+      [7.5, 37.0],
+      [8.5, 38.0],
+      [8.0, 39.0],
+      [7.0, 38.5],
+      [6.5, 37.5],
+      [7.0, 36.5]
+    ],
+    "summary": "The Kingdom of Damot was a medieval kingdom in southern Ethiopia, eventually incorporated into the Ethiopian Empire."
+  },
+  {
+    "id": "reg8",
+    "name": "Sultanate of Harar",
+    "dynasty": "Aussa",
+    "period": "1527 - 1887",
+    "color": "#5a2e3e",
+    "activeYears": [1527, 1887],
+    "bounds": [
+      [9.0, 41.5],
+      [9.5, 42.5],
+      [9.0, 43.0],
+      [8.5, 42.0],
+      [8.5, 41.0],
+      [9.0, 41.0]
+    ],
+    "summary": "The Sultanate of Harar was a Muslim state centered in the city of Harar, known as a center of Islamic learning."
+  }
+]

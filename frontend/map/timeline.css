@@ -1,0 +1,108 @@
+.timeline-container {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 7rem;
+  background-color: #2d1f18;
+  z-index: 4000;
+  border-top: 1px solid rgba(255, 255, 255, 0.05);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0 3rem;
+  user-select: none;
+  box-shadow: 0 -10px 30px rgba(0, 0, 0, 0.5);
+}
+
+.timeline-slider-container {
+  width: 100%;
+  position: relative;
+  padding: 0 0.5rem;
+}
+
+.timeline-indicator {
+  position: absolute;
+  top: 0;
+  transform: translateX(-50%) translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  pointer-events: none;
+  transition: all 0.3s ease-out;
+  left: 50%;
+}
+
+.timeline-year {
+  background-color: #f57c00;
+  color: white;
+  font-weight: 700;
+  font-size: 0.875rem;
+  padding: 0.25rem 0.75rem;
+  border-radius: 0.25rem;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+}
+
+.timeline-indicator-line {
+  width: 2px;
+  height: 2rem;
+  background-color: rgba(245, 124, 0, 0.5);
+}
+
+.year-slider {
+  width: 100%;
+  height: 4px;
+  background: transparent;
+  appearance: none;
+  cursor: pointer;
+  position: relative;
+  z-index: 20;
+}
+
+.year-slider::-webkit-slider-thumb {
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #f57c00;
+  cursor: pointer;
+  border: 2px solid #2d1f18;
+}
+
+.year-slider::-moz-range-thumb {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #f57c00;
+  cursor: pointer;
+  border: 2px solid #2d1f18;
+}
+
+.timeline-ticks {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 0;
+  right: 0;
+  height: 2.5rem;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  pointer-events: none;
+  opacity: 0.4;
+}
+
+.timeline-labels {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1rem;
+  padding: 20px;
+  font-size: 10px;
+  font-weight: 700;
+  color: rgba(255, 255, 255, 0.4);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Product - Ethiopia Historical Timeline</title>
+  <link rel="stylesheet" href="../styles.css">
+  <link rel="stylesheet" href="../map/header.css">
+  <link rel="stylesheet" href="./store.css">
+  <link rel="stylesheet" href="../css/auth.css">
+</head>
+<body>
+  <header id="app-header" class="app-header">
+    <div class="header-left">
+      <div class="logo-section">
+        <a href="../index.html" class="logo-link">
+          <div class="logo-icon">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M3 11l9-9 9 9-9 9-9-9zm9 11l-9-9h18l-9 9z"></path>
+            </svg>
+          </div>
+          <span class="logo-text">History <span class="logo-accent">Time Line</span></span>
+        </a>
+      </div>
+      <nav class="nav-menu">
+        <a href="../" class="nav-link">Map View</a>
+        <a href="../history/" class="nav-link">History View</a>
+        <a href="../store/" class="nav-link active">Store</a>
+        <a href="../orders/" class="nav-link" style="display: none;">Orders</a>
+      </nav>
+      <div></div>
+    </div>
+    <div class="header-right">
+      <button id="cart-btn" class="header-btn" onclick="window.location.href='../cart/'">
+        Cart (<span id="cart-count">0</span>)
+      </button>
+      <div class="user-avatar" id="user-avatar" onclick="handleUserClick()">Y</div>
+    </div>
+  </header>
+
+  <main class="product-page">
+    <div class="product-shell">
+      <a href="./" class="product-breadcrumb">Store</a>
+      <div id="product-detail" class="product-detail">
+        <!-- Filled by product.js -->
+      </div>
+    </div>
+  </main>
+  
+  <footer class="store-footer">
+    <div class="store-footer-inner">
+      <div class="footer-column">
+        <h3>About</h3>
+        <ul>
+          <li><a href="#">Our story</a></li>
+          <li><a href="#">Meet the team</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </div>
+      <div class="footer-column">
+        <h3>Support</h3>
+        <ul>
+          <li><a href="#">Shipping</a></li>
+          <li><a href="#">Returns</a></li>
+          <li><a href="#">FAQ</a></li>
+        </ul>
+      </div>
+      <div class="footer-column footer-column-wide">
+        <h3>Stay connected</h3>
+        <p>Follow the project and community.</p>
+        <div class="footer-social">
+          <button aria-label="Twitter">X</button>
+          <button aria-label="Instagram">IG</button>
+          <button aria-label="LinkedIn">in</button>
+        </div>
+      </div>
+    </div>
+    <div class="store-footer-bottom">
+      <span>&copy; 2026 History Timeline. All rights reserved.</span>
+      <div class="footer-links">
+        <a href="#">Terms</a>
+        <a href="#">Privacy</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Auth Modal -->
+  <div id="auth-modal" class="auth-modal hidden">
+    <div class="auth-content">
+      <div class="auth-header">
+        <h2>Account</h2>
+        <button class="auth-close" onclick="closeAuthModal()">&times;</button>
+      </div>
+      <div class="auth-tabs">
+        <button class="auth-tab active" onclick="switchAuthTab('login')">Login</button>
+        <button class="auth-tab" onclick="switchAuthTab('signup')">Sign Up</button>
+      </div>
+      <form id="login-form" class="auth-form">
+        <input type="email" placeholder="Email" required>
+        <input type="password" placeholder="Password" required>
+        <button type="submit" class="auth-submit">Login</button>
+        <div class="auth-error" id="login-error"></div>
+      </form>
+      <form id="signup-form" class="auth-form" style="display: none;">
+        <input type="text" placeholder="Full Name" required>
+        <input type="email" placeholder="Email" required>
+        <input type="password" placeholder="Password" required>
+        <div class="location-row">
+          <input type="text" placeholder="City" required>
+          <input type="text" placeholder="Country" required>
+        </div>
+        <button type="submit" class="auth-submit">Sign Up</button>
+        <div class="auth-error" id="signup-error"></div>
+      </form>
+    </div>
+  </div>
+
+  <script src="../js/auth.js"></script>
+  <script src="../js/auth-ui.js"></script>
+  <script src="./product.js"></script>
+</body>
+</html>
+
