@@ -17,7 +17,7 @@ class Auth {
   }
 
   async login(email, password) {
-    const response = await fetch('https://history-timeline-4a5q.onrender.com:5000/api/auth/login', {
+    const response = await fetch('https://history-timeline-4a5q.onrender.com/api/auth/login', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ email, password })
@@ -39,7 +39,7 @@ class Auth {
   }
 
   async signup(name, email, password, city, country) {
-    const response = await fetch('https://history-timeline-4a5q.onrender.com:5000/api/auth/signup', {
+    const response = await fetch('https://history-timeline-4a5q.onrender.com/api/auth/signup', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ name, email, password, city, country })
@@ -68,7 +68,7 @@ class Auth {
   }
 
   async createOrder(items, total) {
-    const response = await fetch('https://history-timeline-4a5q.onrender.com:5000/api/orders', {
+    const response = await fetch('https://history-timeline-4a5q.onrender.com/api/orders', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
@@ -85,7 +85,7 @@ class Auth {
   }
 
   async getOrders() {
-    const response = await fetch('https://history-timeline-4a5q.onrender.com:5000/api/orders', {
+    const response = await fetch('https://history-timeline-4a5q.onrender.com/api/orders', {
       headers: {
         'Authorization': `Bearer ${this.token}`
       }

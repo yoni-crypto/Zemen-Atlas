@@ -5,7 +5,7 @@ let activeSearch = '';
 
 async function loadProducts() {
   try {
-    const response = await fetch('https://history-timeline-4a5q.onrender.com:5000/api/products');
+    const response = await fetch('https://history-timeline-4a5q.onrender.com/api/products');
     products = await response.json();
   } catch (error) {
     console.error('Error loading products:', error);

@@ -10,7 +10,7 @@ function getParams() {
   return params;
 }
 
-const API_BASE_URL = 'https://history-timeline-4a5q.onrender.com:5000/api';
+const API_BASE_URL = 'https://history-timeline-4a5q.onrender.com/api';
 
 function loadData() {
   return Promise.all([

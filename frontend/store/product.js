@@ -25,7 +25,7 @@ async function loadProduct() {
   }
 
   try {
-    const res = await fetch('https://history-timeline-4a5q.onrender.com:5000/api/products');
+    const res = await fetch('https://history-timeline-4a5q.onrender.com/api/products');
     const all = await res.json();
     product = all.find((p) => String(p.id) === String(id));
 
