@@ -1,0 +1,188 @@
+ <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zemen Atlas - History View</title>
+    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="./history.css">
+    <link rel="stylesheet" href="../store/store.css">
+    <link rel="stylesheet" href="../auth/auth.css">
+  </head>
+  <body>
+    <header id="app-header">
+      <div class="header-left">
+        <div class="logo-section">
+          <a href="../index.html" class="logo-link">
+            <img src="../logo2.png" alt="Zemen Atlas" class="logo-image">
+            <span class="logo-text">Zemen <span
+                class="logo-accent">Atlas</span></span>
+          </a>
+        </div>
+        <nav class="nav-menu">
+          <a href="../" class="nav-link">Map View</a>
+          <a href="../history/" class="nav-link active">History View</a>
+          <a href="../store/" class="nav-link">Store</a>
+          <a href="../orders/" class="nav-link"
+            style="display: none;">Orders</a>
+        </nav>
+        <div></div>
+      </div>
+      <div class="header-right">
+        <button id="cart-btn" class="header-btn"
+          onclick="window.location.href='../cart/'">
+          Cart (<span id="cart-count">0</span>)
+        </button>
+        <div class="user-avatar" id="user-avatar" onclick="handleUserClick()">Login</div></div>
+    </header>
+
+    <main>
+      <div class="container">
+        <div class="page-header">
+          <div class="page-title-section">
+            <h1>History</h1>
+            <p class="page-subtitle">Chronological view of rulers, places,
+              battles & people</p>
+          </div>
+          <div class="filter-buttons">
+            <button data-filter="all" class="filter-btn active">All</button>
+            <button data-filter="rulers"
+              class="filter-btn inactive">Rulers</button>
+            <button data-filter="places"
+              class="filter-btn inactive">Places</button>
+            <button data-filter="battles"
+              class="filter-btn inactive">Battles</button>
+            <button data-filter="people"
+              class="filter-btn inactive">People</button>
+          </div>
+        </div>
+
+        <div id="timeline">
+          <div class="timeline-line" aria-hidden="true"></div>
+          <div id="timeline-list">
+            <div class="timeline-empty">Loading…</div>
+          </div>
+        </div>
+
+        <template id="timeline-item-template">
+          <article class="timeline-item">
+            <div class="timeline-year">
+              <span class="timeline-year-text"></span>
+            </div>
+            <div class="timeline-dot-container">
+              <span class="timeline-dot"></span>
+            </div>
+            <div class="timeline-content">
+              <a class="timeline-card">
+                <div class="timeline-card-inner">
+                  <div class="timeline-image-container">
+                    <img alt class="timeline-image">
+                  </div>
+                  <div class="timeline-card-content">
+                    <span class="timeline-type-label"></span>
+                    <h2 class="timeline-entity-name"></h2>
+                    
+                  </div>
+                </div>
+              </a>
+            </div>
+          </article>
+        </template>
+
+        <footer class="store-footer">
+          <div class="store-footer-inner">
+            <div class="footer-column">
+              <h3>About</h3>
+              <ul>
+                <li><a href="#">Our story</a></li>
+                <li><a href="#">Meet the team</a></li>
+                <li><a href="#">Contact</a></li>
+              </ul>
+            </div>
+            <div class="footer-column">
+              <h3>Support</h3>
+              <ul>
+                <li><a href="#">Shipping</a></li>
+                <li><a href="#">Returns</a></li>
+                <li><a href="#">FAQ</a></li>
+              </ul>
+            </div>
+            <div class="footer-column footer-column-wide">
+              <h3>Stay connected</h3>
+              <p>Follow the project and developers.</p>
+              <div class="footer-social">
+                <a href="https://github.com/yoni-crypto" target="_blank"
+                  aria-label="Yonas Addisu GitHub">
+                  <img src="../github2.png" alt="GitHub" width="16" height="16">
+                  <span>Yonas Addisu</span>
+                </a>
+                <a href="https://github.com/SaronDe" target="_blank"
+                  aria-label="Saron Demile GitHub">
+                  <img src="../github2.png" alt="GitHub" width="16" height="16">
+                  <span>Saron Demile</span>
+                </a>
+                <a href="https://github.com/yafetgetu" target="_blank"
+                  aria-label="Yafet Getu GitHub">
+                  <img src="../github2.png" alt="GitHub" width="16" height="16">
+                  <span>Yafet Getu</span>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="store-footer-bottom">
+            <span>&copy; 2026 Zemen Atlas. All rights reserved.</span>
+            <div class="footer-links">
+              <a href="#">Terms</a>
+              <a href="#">Privacy</a>
+            </div>
+          </div>
+        </footer>
+      </div>
+    </main>
+
+    <div id="auth-modal" class="auth-modal hidden">
+      <div class="auth-content">
+        <div class="auth-header">
+          <h2>Account</h2>
+          <button class="auth-close" onclick="closeAuthModal()">&times;</button>
+        </div>
+        <div class="auth-tabs">
+          <button class="auth-tab active"
+            onclick="switchAuthTab('login')">Login</button>
+          <button class="auth-tab" onclick="switchAuthTab('signup')">Sign
+            Up</button>
+        </div>
+        <form id="login-form" class="auth-form">
+          <input type="email" placeholder="Email" required>
+          <input type="password" placeholder="Password" required>
+          <button type="submit" class="auth-submit">Login</button>
+          <div class="auth-error" id="login-error"></div>
+        </form>
+        <form id="signup-form" class="auth-form" style="display: none;">
+          <input type="text" placeholder="Full Name" required>
+          <input type="email" placeholder="Email" required>
+          <input type="password" placeholder="Password" required>
+          <div class="location-row">
+            <input type="text" placeholder="City" required>
+            <input type="text" placeholder="Country" required>
+          </div>
+          <button type="submit" class="auth-submit">Sign Up</button>
+          <div class="auth-error" id="signup-error"></div>
+        </form>
+      </div>
+    </div>
+
+    <script src="../auth/auth.js"></script>
+    <script src="../auth/auth-ui.js"></script>
+    <script>
+      // Update cart count on page load
+      document.addEventListener('DOMContentLoaded', function() {
+        const cart = JSON.parse(localStorage.getItem('cart')) || [];
+        const count = cart.reduce((total, item) => total + item.quantity, 0);
+        const cartCountEl = document.getElementById('cart-count');
+        if (cartCountEl) cartCountEl.textContent = count;
+      });
+    </script>
+    <script src="./history.js"></script>
+  </body>
+</html>
