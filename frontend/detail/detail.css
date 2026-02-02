@@ -331,6 +331,10 @@ main {
   color: white;
 }
 
+
+
+
+
 /* Wikipedia Frame */
 #detail-wikipedia {
   margin-top: 1.5rem;
@@ -350,6 +354,94 @@ main {
   height: 100%;
   border: 0;
 }
+
+
+.detail-footer {
+  margin-top: 40px;
+  padding-top: 16px;
+  border-top: 1px solid #2f2f2f;
+  font-size: 0.85rem;
+  color: #9ca3af;
+}
+
+.detail-footer-inner {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 32px;
+  justify-content: space-between;
+}
+
+.footer-column h3 {
+  font-size: 0.9rem;
+  font-weight: 600;
+  margin-bottom: 8px;
+  color: #f9fafb;
+}
+
+.footer-column ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-column li + li {
+  margin-top: 4px;
+}
+
+.footer-column a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.footer-column a:hover {
+  color: #f9fafb;
+}
+
+.footer-column-wide p {
+  margin: 4px 0 10px;
+}
+
+.footer-social {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.footer-social a {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  text-decoration: none;
+  color: #9ca3af;
+  font-size: 0.85rem;
+}
+
+.footer-social a:hover {
+  color: #f9fafb;
+}
+
+.detail-footer-bottom {
+  margin-top: 18px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.footer-links {
+  display: flex;
+  gap: 10px;
+}
+
+.footer-links a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.footer-links a:hover {
+  color: #4091e2;
+}
+
 
 .hidden {
   display: none;
