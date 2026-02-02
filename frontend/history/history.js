@@ -15,7 +15,7 @@ function loadData() {
     fetch(`${API_BASE_URL}/places`).then(res => res.json()),
     fetch(`${API_BASE_URL}/battles`).then(res => res.json()),
     fetch(`${API_BASE_URL}/people`).then(res => res.json())
-  ]).then(function (results) {
+  ]).then(function (results) { // result is array [ruler,places,..]
     state.rulers = results[0];
     state.places = results[1];
     state.battles = results[2];
