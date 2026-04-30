@@ -217,7 +217,7 @@ Contributions are welcome. This is an open-source project dedicated to Ethiopian
 ### How to Contribute
 
 1. Fork the repository
-2. Clone your fork: `git clone https://github.com/YOUR-USERNAME/Zemen-Atlas.git`
+2. Clone your fork: `git clone https://github.com/yoni-crypto/Zemen-Atlas.git`
 3. Create a feature branch: `git checkout -b feature/amazing-feature`
 4. Commit your changes: `git commit -m 'Add amazing feature'`
 5. Push to the branch: `git push origin feature/amazing-feature`
