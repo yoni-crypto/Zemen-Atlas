@@ -7,6 +7,8 @@ require('dotenv').config();
 
 const app = express();
 const PORT = process.env.PORT || 5000;
+const MONGODB_URI = process.env.MONGODB_URI || 'mongodb://127.0.0.1:27017/zemen-atlas';
+const JWT_SECRET = process.env.JWT_SECRET || 'fallback_secret';
 
 app.use(cors({
   origin: '*',
@@ -17,10 +19,17 @@ app.options('*', cors());
 
 app.use(express.json());
 
-mongoose.connect(process.env.MONGODB_URI , {
+mongoose.connect(MONGODB_URI, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
-});
+})
+  .then(() => {
+    console.log(`MongoDB connected: ${MONGODB_URI}`);
+  })
+  .catch((error) => {
+    console.error('MongoDB connection failed:', error.message);
+    console.warn('Continuing without database connection. Start MongoDB or set MONGODB_URI to a valid URI.');
+  });
 
 const Region = require('./models/Region');
 const Ruler = require('./models/Ruler');
@@ -39,7 +48,7 @@ const authenticateToken = (req, res, next) => {
     return res.status(401).json({ error: 'Access token required' });
   }
   
-  jwt.verify(token, process.env.JWT_SECRET || 'fallback_secret', (err, user) => {
+  jwt.verify(token, JWT_SECRET, (err, user) => {
     if (err) {
       return res.status(403).json({ error: 'Invalid token' });
     }
@@ -69,7 +78,7 @@ app.post('/api/auth/signup', async (req, res) => {
     
     const token = jwt.sign(
       { userId: user._id, email: user.email },
-      process.env.JWT_SECRET || 'fallback_secret',
+      JWT_SECRET,
       { expiresIn: '7d' }
     );
     
@@ -103,7 +112,7 @@ app.post('/api/auth/login', async (req, res) => {
     
     const token = jwt.sign(
       { userId: user._id, email: user.email },
-      process.env.JWT_SECRET || 'fallback_secret',
+      JWT_SECRET,
       { expiresIn: '7d' }
     );
     

@@ -3,6 +3,8 @@ const fs = require('fs');
 const path = require('path');
 require('dotenv').config();
 
+const MONGODB_URI = process.env.MONGODB_URI || 'mongodb://127.0.0.1:27017/zemen-atlas';
+
 const Region = require('./models/Region');
 const Ruler = require('./models/Ruler');
 const Battle = require('./models/Battle');
@@ -10,10 +12,17 @@ const Person = require('./models/Person');
 const Place = require('./models/Place');
 const Product = require('./models/Product');
 
-mongoose.connect(process.env.MONGODB_URI , {
+mongoose.connect(MONGODB_URI, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
-});
+})
+  .then(() => {
+    console.log(`MongoDB connected: ${MONGODB_URI}`);
+  })
+  .catch((error) => {
+    console.error('MongoDB connection failed:', error.message);
+    process.exit(1);
+  });
 
 async function seedDatabase() {
   try {
